@@ -1,5 +1,5 @@
 {
-    "name": "php-ai/php-ml",
+    "name": "larswiegers/php-ml",
     "type": "library",
     "description": "PHP-ML - Machine Learning library for PHP",
     "keywords": [
